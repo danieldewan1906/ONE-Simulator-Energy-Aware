@@ -1,0 +1,20 @@
+Message stats for scenario EAEpidemic_TA_ForwardingReceiver&Transmitter_OperasiAtau
+sim_time: 274883.0000
+created: 834
+started: 22080
+relayed: 21279
+aborted: 789
+dropped: 19041
+removed: 0
+delivered: 59
+delivery_prob: 0.0707
+response_prob: 0.0000
+overhead_ratio: 359.6610
+latency_avg: 18983.4712
+latency_med: 13087.1000
+hopcount_avg: 6.3390
+hopcount_med: 5
+buffertime_avg: 6270.2949
+buffertime_med: 323.7000
+rtt_avg: NaN
+rtt_med: NaN

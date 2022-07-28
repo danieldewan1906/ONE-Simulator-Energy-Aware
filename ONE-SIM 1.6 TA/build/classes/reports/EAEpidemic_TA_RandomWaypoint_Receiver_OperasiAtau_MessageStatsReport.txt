@@ -1,0 +1,20 @@
+Message stats for scenario EAEpidemic_TA_RandomWaypoint_Receiver_OperasiAtau
+sim_time: 274883.0000
+created: 834
+started: 32606
+relayed: 27189
+aborted: 5398
+dropped: 21121
+removed: 0
+delivered: 66
+delivery_prob: 0.0791
+response_prob: 0.0000
+overhead_ratio: 410.9545
+latency_avg: 420.3924
+latency_med: 246.4000
+hopcount_avg: 2.8939
+hopcount_med: 3
+buffertime_avg: 5687.7596
+buffertime_med: 808.4000
+rtt_avg: NaN
+rtt_med: NaN

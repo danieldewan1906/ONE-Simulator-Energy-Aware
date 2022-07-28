@@ -1,0 +1,20 @@
+Message stats for scenario Plot_EnergyAwal
+sim_time: 274883.0000
+created: 834
+started: 22448
+relayed: 21654
+aborted: 786
+dropped: 20947
+removed: 0
+delivered: 60
+delivery_prob: 0.0719
+response_prob: 0.0000
+overhead_ratio: 359.9000
+latency_avg: 16594.3733
+latency_med: 13087.1000
+hopcount_avg: 6.0333
+hopcount_med: 5
+buffertime_avg: 5675.3779
+buffertime_med: 327.3000
+rtt_avg: NaN
+rtt_med: NaN
